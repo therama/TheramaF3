@@ -1,0 +1,6 @@
+framework module TheramaF3 {
+  umbrella header "TheramaF3.h"
+
+  export *
+  module * { export * }
+}
