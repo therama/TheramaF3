@@ -2,3 +2,4 @@
 /TheramaF3
 TheramaF3.xcodeproj
 build_xcframework.sh
+*.podspec
